@@ -17,7 +17,6 @@ Children Youth Adult Senior
 related issues and causes?
 11. Drawapiechartbetweentheaggregatedvalueofclaimamountbased
 on gender and segment. Represent the claim amount as a percentage on the pie chart.
-AnalytixLabs, Website: www.analytixlabs.co.in Email: info@analytixlabs.co.inPhone: (+91) 955.521.9007
 12.Amongmalesandfemales,whichgenderhadclaimedthemostforany type of driver related issues? E.g. This metric can be compared using a bar chart
 13.Whichagegrouphadthemaximumfraudulentpolicyclaims?Visualize it on a bar chart.
 14. Visualizethemonthlytrendofthetotalamountthathasbeenclaimed by the customers. Ensure that on the “month” axis, the month is in a chronological order not alphabetical order.
